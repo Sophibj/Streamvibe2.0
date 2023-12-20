@@ -1,3 +1,9 @@
+![StreamVibe](https://github.com/Sophibj/Streamvibe2.0/blob/main/StreamVibe.jpg)
+<p align="center">
+  <img src="https://github.com/Sophibj/Streamvibe2.0/blob/main/StreamVibe.jpg" alt="StreamVibe">
+</p>
+
+
 # Streamvibe2.0
 
 ## Introducción
