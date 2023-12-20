@@ -1,10 +1,9 @@
+# Streamvibe2.0
+
 ![StreamVibe](https://github.com/Sophibj/Streamvibe2.0/blob/main/StreamVibe.jpg)
 <p align="center">
   <img src="https://github.com/Sophibj/Streamvibe2.0/blob/main/StreamVibe.jpg" alt="StreamVibe">
 </p>
-
-
-# Streamvibe2.0
 
 ## Introducción
 Streamvibe2.0 es un proyecto innovador para amantes del cine, utilizando APIs de YouTube y TMDb para sugerir y buscar películas, ofreciendo una plataforma dinámica y fácil de usar.
