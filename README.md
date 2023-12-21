@@ -20,7 +20,6 @@ Este código se encuentra programado en lenguage GO (Golang).
 Para usar todas los módulos se deben pegar en la ruta de documentos y abrir con el IDE de preferencia, para este proyecto nosotros hemos usado VisualSutudio con el paquete de Lenguage GO.
 
 ## Uso
-## Uso
 
 A continuación se describen los módulos principales de Streamvibe2.0 y cómo utilizarlos:
 
