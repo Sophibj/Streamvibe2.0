@@ -13,17 +13,17 @@ Streamvibe2.0 es un proyecto innovador para amantes del cine, utilizando APIs de
 - **Cuentas de Usuario:** Permite a los usuarios crear cuentas personales.
 - **Catálogos:** Navegación y visualización de extensos catálogos de películas.
 
+## Lenguaje
+Este código se encuentra programado en lenguage GO (Golang).
+
 ## Instalación
-Instrucciones detalladas sobre cómo instalar Streamvibe2.0, incluyendo requisitos previos y guía paso a paso.
+Para usar todas los módulos se deben pegar en la ruta de documentos y abrir con el IDE de preferencia, para este proyecto nosotros hemos usado VisualSutudio con el paquete de Lenguage GO.
 
 ## Uso
-Guía de uso detallada, incluyendo cómo navegar en la interfaz, buscar películas y acceder a recomendaciones personales.
+Esta es una guia de uso acerca de los módulos.
 
-## Contribuir
-Directrices para contribuir al proyecto, incluyendo estándares de codificación y cómo realizar solicitudes de extracción.
 
-## Licencia
-Información sobre la licencia bajo la cual se libera Streamvibe2.0.
 
 ## Agradecimientos
-Créditos a colaboradores y reconocimiento de cualquier herramienta o biblioteca de terceros utilizada en el proyecto.
+Agradecimientos a los creadores del proyecto Sophia Ibarra (Sophibj) y Sebastián Becerra (Jugger_SB) por el repositorio.
+Un agradecimiento a Juan David Moromenacho por el acompañamiento
