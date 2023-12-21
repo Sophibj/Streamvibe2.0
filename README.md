@@ -43,7 +43,7 @@ Este módulo configura y maneja la conexión con la base de datos SQL del proyec
 
 El módulo `search` proporciona funcionalidades para buscar películas en la base de datos de TMDb (`Searchtmdb`) y para buscar videos relacionados en YouTube (`SearchYoutube`). Permite a los usuarios buscar contenido específico basado en sus intereses.
 
-### [main.go](https://github.com/Sophibj/Streamvibe2.0/blob/mai/Streamvibe/main.go)
+### [main.go](https://github.com/Sophibj/Streamvibe2.0/blob/main/Streamvibe/main.go)
 
 `main.go` es el punto de entrada del programa. Este módulo inicia la conexión a la base de datos y presenta al usuario un menú inicial donde puede elegir entre crear un nuevo usuario, iniciar sesión o salir de la aplicación.
 
