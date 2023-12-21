@@ -47,7 +47,11 @@ El módulo `search` proporciona funcionalidades para buscar películas en la bas
 
 `main.go` es el punto de entrada del programa. Este módulo inicia la conexión a la base de datos y presenta al usuario un menú inicial donde puede elegir entre crear un nuevo usuario, iniciar sesión o salir de la aplicación.
 
-
+## Dependencias
+Paquetes de Go estándar para operaciones de red, manejo de datos y utilidades de sistema.
+google.golang.org/api/option y google.golang.org/api/youtube/v3 para la integración con la API de YouTube.
+Driver github.com/denisenkom/go-mssqldb para la conexión con SQL Server.
+Claves API para TMDB y YouTube.
 
 ## Agradecimientos
 Agradecimientos a los creadores del proyecto Sophia Ibarra (Sophibj) y Sebastián Becerra (Jugger_SB) por el repositorio.
