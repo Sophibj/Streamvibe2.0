@@ -23,7 +23,7 @@ Para usar todas los módulos se deben pegar en la ruta de documentos y abrir con
 
 A continuación se describen los módulos principales de Streamvibe2.0 y cómo utilizarlos:
 
-### [auth.go](https://github.com/Sophibj/Streamvibe2.0/blob/main/auth.go)
+### [auth.go](https://github.com/Sophibj/Streamvibe2.0/blob/main/Streamvibe/auth/auth.go)
 
 Este módulo gestiona la autenticación y administración de usuarios. Incluye funcionalidades para crear nuevos usuarios (`NewUser`) y para que los usuarios existentes inicien sesión (`Login`). Tras la autenticación, el usuario accede al menú principal (`UserMenu`), donde puede navegar por el catálogo de películas, visualizar géneros, buscar películas en TMDb y buscar videos en YouTube.
 
